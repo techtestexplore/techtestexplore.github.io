@@ -2,14 +2,15 @@
 layout: home
 
 hero:
-  name: Home
-  tagline: Diversity is essential to Happiness
-  actions:
-    - theme: brand
-      text: 🍎  记录Box
-      link: https://apps.apple.com/cn/app/id1579304692
+  # name: Home
+  tagline: Diversity is essential to happiness
 
 features:
+  - icon: 📱
+    title: 记录Box
+    details: 🍎 个人开发的iOS App
+    link: https://apps.apple.com/cn/app/id1579304692
+
   - title: KMM初探
     details: Kotlin Multiplatform允许Kotlin代码在多平台上运行...
     link: /tech/kmm-basic
