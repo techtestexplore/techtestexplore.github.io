@@ -6,7 +6,7 @@ export default defineConfig({
   description: "",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '../assets/icons/logo.png',
+    logo: '../assets/justtest/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: '记录Box', link: '/apps/recordbox/recordbox-home' },
@@ -16,7 +16,7 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/remember17' },
       { icon: 'instagram', link: 'https://www.instagram.com/i.haoo' },
