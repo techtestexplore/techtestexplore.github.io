@@ -12,7 +12,7 @@ features:
     link: https://apps.apple.com/cn/app/id1579304692
 
   - title: App介绍
-    link: /apps/recordbox/about
+    link: /apps/recordbox/recordbox-about
 
   - title: 订阅服务说明
     link: /apps/recordbox/auto-renew-agreement
@@ -24,3 +24,20 @@ features:
     link: /apps/recordbox/questions
 
 ---
+
+
+
+
+
+
+000
+
+
+
+
+
+.
+
+.
+
+
