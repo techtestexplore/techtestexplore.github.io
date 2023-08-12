@@ -12,12 +12,12 @@ features:
     link: mailto:wuhao.code@gmail.com
 
   - icon:
-      src: /assets/icons/github.png
+      src: /assets/icons/github.svg
     title: Github
     link: https://github.com/remember17
 
   - icon:
-      src: /assets/icons/twitter.svg
+      src: /assets/default/timeicon.png
     title: Twitter
     link: https://twitter.com/areahao
 
