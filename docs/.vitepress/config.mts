@@ -6,7 +6,7 @@ export default defineConfig({
   description: "",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/assets/icons/logo.png',
+    logo: '../assets/icons/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: '记录Box', link: '/apps/recordbox/recordbox-home' },
@@ -16,16 +16,7 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-    // sidebar: [
-    //   {
-    //     text: 'Examples',
-    //     items: [
-    //       { text: 'Markdown Examples', link: '/markdown-examples' },
-    //       { text: 'Runtime API Examples', link: '/api-examples' }
-    //     ]
-    //   }
-    // ],
-
+    
     socialLinks: [
       { icon: 'github', link: 'https://github.com/remember17' },
       { icon: 'instagram', link: 'https://www.instagram.com/i.haoo' },
